@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:CampusMVP_Reto1" x:Class="CampusMVP_Reto1.CampusMVP_Reto1Page">
+	 <StackLayout VerticalOptions="Center">
+		<Button x:Name="Clicker" Text="Púlsame" HorizontalOptions="Center" />
+		<Label x:Name="Count" Text="Botón pulsado 0 veces" HorizontalOptions="Center" />
+	</StackLayout>
+</ContentPage>
